@@ -39,14 +39,15 @@ The goal is to simulate a **business intelligence tool** for retail decision-mak
 
 ## 📷 Screenshots
 
-### Dashboard Overview
+## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+### Dashboard
+![Dashboard](screenshots/dashboard-main.png)
 
-### KPIs Section
+### KPIs
 ![KPIs](screenshots/kpis.png)
 
-### Analytics Charts
+### Charts
 ![Charts](screenshots/charts.png)
 
 ---
