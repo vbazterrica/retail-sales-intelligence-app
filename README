@@ -67,5 +67,8 @@ Data was loaded from Kaggle using KaggleHub and represents a simulated fashion r
 ## ▶️ How to Run
 
 ```bash
+## ▶️ How to Run
+
+```bash
 pip install -r requirements.txt
-python app.py
+python sales_analytics.py
