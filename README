@@ -1,1 +1,69 @@
+# 🛍️ Fashion Retail Analytics Dashboard
 
+Interactive data analytics dashboard built with Python, Gradio and Plotly to explore retail sales performance, pricing strategy, and customer behavior.
+
+---
+
+## 📊 Project Overview
+
+This project is an interactive dashboard designed to analyze a fashion retail dataset.  
+It allows users to filter data by category, brand, and date range to explore key business metrics in real time.
+
+The goal is to simulate a **business intelligence tool** for retail decision-making.
+
+---
+
+## 🚀 Features
+
+- Real-time KPI tracking (sales, returns, discounts, ratings)
+- Interactive filtering by category and brand
+- Price vs discount analysis
+- Customer rating insights
+- Return reasons breakdown
+- Stock vs rating relationship
+- Monthly sales trend visualization
+- Export filtered dataset as CSV report
+
+---
+
+## 🧰 Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Plotly
+- Gradio
+- KaggleHub
+
+---
+
+## 📷 Screenshots
+
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
+
+### KPIs Section
+![KPIs](screenshots/kpis.png)
+
+### Analytics Charts
+![Charts](screenshots/charts.png)
+
+---
+
+## 📁 Dataset
+
+Data was loaded from Kaggle using KaggleHub and represents a simulated fashion retail sales dataset including:
+
+- Products
+- Sales transactions
+- Customer ratings
+- Returns
+- Pricing and discounts
+
+---
+
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+python app.py
