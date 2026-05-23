@@ -39,8 +39,6 @@ The goal is to simulate a **business intelligence tool** for retail decision-mak
 
 ## 📷 Screenshots
 
-## 📷 Screenshots
-
 ### Dashboard
 ![](https://raw.githubusercontent.com/vbazterrica/retail-sales-intelligence-app/main/screenshots/dashboard-main.png)
 
@@ -64,9 +62,7 @@ Data was loaded from Kaggle using KaggleHub and represents a simulated fashion r
 
 ---
 
-## ▶️ How to Run
 
-```bash
 ## ▶️ How to Run
 
 ```bash
